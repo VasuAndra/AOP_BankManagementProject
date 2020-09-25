@@ -1,0 +1,859 @@
+In procedura citesteSucursalaFis,2019-04-29 12:27:29.336
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:27:29.383
+In procedura citestePersoanaFis,2019-04-29 12:27:29.383
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:27:29.399
+In procedura citestePersoanaFis,2019-04-29 12:27:29.399
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:27:29.399
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:27:29.399
+In procedura detaliiAngajatCSV, 2019-04-29 12:27:29.399
+In procedura detaliiPersoanaCSV, 2019-04-29 12:27:29.399
+In procedura detaliiClientCSV, 2019-04-29 12:27:29.399
+In procedura detaliiPersoanaCSV, 2019-04-29 12:27:29.399
+In procedura detaliiContCSV, 2019-04-29 12:27:29.399
+In procedura citesteSucursalaFis,2019-04-29 12:27:49.989
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:27:50.02
+In procedura citestePersoanaFis,2019-04-29 12:27:50.02
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:27:50.036
+In procedura citestePersoanaFis,2019-04-29 12:27:50.036
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:27:50.036
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:27:50.036
+In procedura detaliiAngajatCSV, 2019-04-29 12:27:50.036
+In procedura detaliiPersoanaCSV, 2019-04-29 12:27:50.036
+In procedura detaliiClientCSV, 2019-04-29 12:27:50.036
+In procedura detaliiPersoanaCSV, 2019-04-29 12:27:50.036
+In procedura detaliiContCSV, 2019-04-29 12:27:50.036
+In procedura citesteSucursalaFis,2019-04-29 12:28:13.799
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:28:13.846
+In procedura citestePersoanaFis,2019-04-29 12:28:13.846
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:28:13.846
+In procedura citestePersoanaFis,2019-04-29 12:28:13.846
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:28:13.861
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:28:13.861
+In procedura detaliiAngajatCSV, 2019-04-29 12:28:13.861
+In procedura detaliiPersoanaCSV, 2019-04-29 12:28:13.861
+In procedura detaliiClientCSV, 2019-04-29 12:28:13.861
+In procedura detaliiPersoanaCSV, 2019-04-29 12:28:13.861
+In procedura detaliiContCSV, 2019-04-29 12:28:13.861
+In procedura citesteSucursalaFis,2019-04-29 12:29:10.537
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:29:10.569
+In procedura citestePersoanaFis,2019-04-29 12:29:10.569
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:29:10.584
+In procedura citestePersoanaFis,2019-04-29 12:29:10.584
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:29:10.584
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:29:10.584
+In procedura detaliiAngajatCSV, 2019-04-29 12:29:10.584
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:10.584
+In procedura detaliiClientCSV, 2019-04-29 12:29:10.584
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:10.584
+In procedura detaliiContCSV, 2019-04-29 12:29:10.584
+In procedura citesteSucursalaFis,2019-04-29 12:29:25.524
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:29:25.571
+In procedura citestePersoanaFis,2019-04-29 12:29:25.571
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:29:25.571
+In procedura citestePersoanaFis,2019-04-29 12:29:25.571
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:29:25.586
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:29:25.586
+In procedura detaliiAngajatCSV, 2019-04-29 12:29:25.586
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:25.586
+In procedura detaliiClientCSV, 2019-04-29 12:29:25.586
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:25.586
+In procedura detaliiContCSV, 2019-04-29 12:29:25.586
+In procedura citesteSucursalaFis,2019-04-29 12:29:54.141
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:29:54.173
+In procedura citestePersoanaFis,2019-04-29 12:29:54.173
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:29:54.188
+In procedura citestePersoanaFis,2019-04-29 12:29:54.188
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:29:54.188
+Iban,2221
+Tip valuta inexistent.In procedura detaliiPersoanaCSV, 2019-04-29 12:29:54.188
+In procedura detaliiAngajatCSV, 2019-04-29 12:29:54.188
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:54.188
+In procedura detaliiClientCSV, 2019-04-29 12:29:54.188
+In procedura detaliiPersoanaCSV, 2019-04-29 12:29:54.188
+In procedura detaliiContCSV, 2019-04-29 12:29:54.188
+In procedura citesteSucursalaFis,2019-04-29 12:32:50.157
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:32:50.188
+In procedura citestePersoanaFis,2019-04-29 12:32:50.188
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:32:50.204
+In procedura citestePersoanaFis,2019-04-29 12:32:50.204
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:32:50.204
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura detaliiPersoanaCSV, 2019-04-29 12:32:50.235
+In procedura detaliiAngajatCSV, 2019-04-29 12:32:50.251
+In procedura detaliiPersoanaCSV, 2019-04-29 12:32:50.251
+In procedura detaliiClientCSV, 2019-04-29 12:32:50.251
+In procedura detaliiPersoanaCSV, 2019-04-29 12:32:50.251
+In procedura detaliiContCSV, 2019-04-29 12:32:50.251
+In procedura citesteSucursalaFis,2019-04-29 12:50:19.492
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:50:19.523
+In procedura citestePersoanaFis,2019-04-29 12:50:19.523
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:50:19.523
+In procedura citestePersoanaFis,2019-04-29 12:50:19.523
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:50:19.539
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 12:50:19.554
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 12:50:19.554
+In procedura citesteRataFis,2019-04-29 12:50:19.554
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:19.554
+In procedura detaliiAngajatCSV, 2019-04-29 12:50:19.554
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:19.554
+In procedura detaliiClientCSV, 2019-04-29 12:50:19.554
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:19.554
+In procedura detaliiContCSV, 2019-04-29 12:50:19.57
+In procedura detaliiCardCSV, 2019-04-29 12:50:19.57
+In procedura detaliiCreditCSV, 2019-04-29 12:50:19.57
+In procedura detaliiRataCSV, 2019-04-29 12:50:19.57
+In procedura citesteSucursalaFis,2019-04-29 12:50:44.417
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:50:44.449
+In procedura citestePersoanaFis,2019-04-29 12:50:44.449
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:50:44.464
+In procedura citestePersoanaFis,2019-04-29 12:50:44.464
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:50:44.464
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 12:50:44.48
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 12:50:44.495
+In procedura citesteRataFis,2019-04-29 12:50:44.495
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:44.495
+In procedura detaliiAngajatCSV, 2019-04-29 12:50:44.495
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:44.495
+In procedura detaliiClientCSV, 2019-04-29 12:50:44.495
+In procedura detaliiPersoanaCSV, 2019-04-29 12:50:44.495
+In procedura detaliiContCSV, 2019-04-29 12:50:44.495
+In procedura detaliiCardCSV, 2019-04-29 12:50:44.495
+In procedura detaliiCreditCSV, 2019-04-29 12:50:44.495
+In procedura detaliiRataCSV, 2019-04-29 12:50:44.495
+In procedura citesteSucursalaFis,2019-04-29 12:54:08.893
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:54:08.925
+In procedura citestePersoanaFis,2019-04-29 12:54:08.925
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:54:08.94
+In procedura citestePersoanaFis,2019-04-29 12:54:08.94
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:54:08.94
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 12:54:08.956
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 12:54:08.972
+In procedura citesteRataFis,2019-04-29 12:54:08.972
+In procedura detaliiPersoanaCSV, 2019-04-29 12:54:08.972
+In procedura detaliiAngajatCSV, 2019-04-29 12:54:08.972
+In procedura detaliiPersoanaCSV, 2019-04-29 12:54:08.972
+In procedura detaliiClientCSV, 2019-04-29 12:54:08.972
+In procedura detaliiPersoanaCSV, 2019-04-29 12:54:08.972
+In procedura detaliiContCSV, 2019-04-29 12:54:08.972
+In procedura detaliiCardCSV, 2019-04-29 12:54:08.972
+In procedura detaliiCreditCSV, 2019-04-29 12:54:08.972
+In procedura detaliiRataCSV, 2019-04-29 12:54:08.972
+In procedura citesteSucursalaFis,2019-04-29 12:55:20.778
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 12:55:20.81
+In procedura citestePersoanaFis,2019-04-29 12:55:20.81
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 12:55:20.825
+In procedura citestePersoanaFis,2019-04-29 12:55:20.825
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 12:55:20.825
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 12:55:20.841
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 12:55:20.857
+In procedura citesteRataFis,2019-04-29 12:55:20.857
+In procedura detaliiPersoanaCSV, 2019-04-29 12:55:20.857
+In procedura detaliiAngajatCSV, 2019-04-29 12:55:20.857
+In procedura detaliiPersoanaCSV, 2019-04-29 12:55:20.857
+In procedura detaliiClientCSV, 2019-04-29 12:55:20.857
+In procedura detaliiPersoanaCSV, 2019-04-29 12:55:20.857
+In procedura detaliiContCSV, 2019-04-29 12:55:20.857
+In procedura detaliiCardCSV, 2019-04-29 12:55:20.857
+In procedura detaliiCreditCSV, 2019-04-29 12:55:20.857
+In procedura detaliiRataCSV, 2019-04-29 12:55:20.857
+In procedura citesteSucursalaFis,2019-04-29 13:03:09.535
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura detaliiPersoanaCSV, 2019-04-29 13:03:09.567
+In procedura citesteSucursalaFis,2019-04-29 13:03:48.929
+Id sucursala,1
+Denumire,Bucuresti
+Locatie,111
+In procedura detaliiPersoanaCSV, 2019-04-29 13:03:48.961
+In procedura citesteSucursalaFis,2019-04-29 13:06:02.897
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:06:02.929
+In procedura citestePersoanaFis,2019-04-29 13:06:02.929
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura detaliiPersoanaCSV, 2019-04-29 13:06:02.929
+In procedura detaliiAngajatCSV, 2019-04-29 13:06:02.929
+In procedura detaliiPersoanaCSV, 2019-04-29 13:06:02.929
+In procedura citesteSucursalaFis,2019-04-29 13:08:02.712
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura detaliiPersoanaCSV, 2019-04-29 13:08:02.743
+In procedura citesteSucursalaFis,2019-04-29 13:08:57.675
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura detaliiPersoanaCSV, 2019-04-29 13:08:57.722
+In procedura citesteSucursalaFis,2019-04-29 13:09:19.812
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:09:19.859
+In procedura citestePersoanaFis,2019-04-29 13:09:19.859
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura detaliiPersoanaCSV, 2019-04-29 13:09:19.859
+In procedura detaliiAngajatCSV, 2019-04-29 13:09:19.859
+In procedura detaliiPersoanaCSV, 2019-04-29 13:09:19.859
+In procedura citesteSucursalaFis,2019-04-29 13:12:41.044
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:12:41.075
+In procedura citestePersoanaFis,2019-04-29 13:12:41.075
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura detaliiPersoanaCSV, 2019-04-29 13:12:41.075
+In procedura detaliiAngajatCSV, 2019-04-29 13:12:41.075
+In procedura detaliiPersoanaCSV, 2019-04-29 13:12:41.075
+In procedura citesteSucursalaFis,2019-04-29 13:14:35.218
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:14:35.249
+In procedura citestePersoanaFis,2019-04-29 13:14:35.249
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:14:35.265
+In procedura citestePersoanaFis,2019-04-29 13:14:35.265
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura detaliiPersoanaCSV, 2019-04-29 13:14:35.265
+In procedura detaliiAngajatCSV, 2019-04-29 13:14:35.265
+In procedura detaliiPersoanaCSV, 2019-04-29 13:14:35.265
+In procedura detaliiClientCSV, 2019-04-29 13:14:35.265
+In procedura detaliiPersoanaCSV, 2019-04-29 13:14:35.265
+In procedura citesteSucursalaFis,2019-04-29 13:16:01.708
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:16:01.755
+In procedura citestePersoanaFis,2019-04-29 13:16:01.755
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:16:01.755
+In procedura citestePersoanaFis,2019-04-29 13:16:01.755
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:16:01.755
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:01.786
+In procedura detaliiAngajatCSV, 2019-04-29 13:16:01.786
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:01.786
+In procedura detaliiClientCSV, 2019-04-29 13:16:01.786
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:01.786
+In procedura detaliiContCSV, 2019-04-29 13:16:01.786
+In procedura citesteSucursalaFis,2019-04-29 13:16:48.678
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:16:48.725
+In procedura citestePersoanaFis,2019-04-29 13:16:48.725
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:16:48.725
+In procedura citestePersoanaFis,2019-04-29 13:16:48.741
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:16:48.741
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:48.756
+In procedura detaliiAngajatCSV, 2019-04-29 13:16:48.756
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:48.756
+In procedura detaliiClientCSV, 2019-04-29 13:16:48.756
+In procedura detaliiPersoanaCSV, 2019-04-29 13:16:48.756
+In procedura detaliiContCSV, 2019-04-29 13:16:48.756
+In procedura citesteSucursalaFis,2019-04-29 13:17:41.062
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:17:41.109
+In procedura citestePersoanaFis,2019-04-29 13:17:41.109
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:17:41.109
+In procedura citestePersoanaFis,2019-04-29 13:17:41.109
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:17:41.124
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura detaliiPersoanaCSV, 2019-04-29 13:17:41.124
+In procedura detaliiAngajatCSV, 2019-04-29 13:17:41.124
+In procedura detaliiPersoanaCSV, 2019-04-29 13:17:41.124
+In procedura detaliiClientCSV, 2019-04-29 13:17:41.14
+In procedura detaliiPersoanaCSV, 2019-04-29 13:17:41.14
+In procedura detaliiContCSV, 2019-04-29 13:17:41.14
+In procedura citesteSucursalaFis,2019-04-29 13:22:50.638
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:22:50.67
+In procedura citestePersoanaFis,2019-04-29 13:22:50.67
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:22:50.685
+In procedura citestePersoanaFis,2019-04-29 13:22:50.685
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:22:50.685
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura detaliiPersoanaCSV, 2019-04-29 13:22:50.717
+In procedura detaliiAngajatCSV, 2019-04-29 13:22:50.717
+In procedura detaliiPersoanaCSV, 2019-04-29 13:22:50.717
+In procedura detaliiClientCSV, 2019-04-29 13:22:50.717
+In procedura detaliiPersoanaCSV, 2019-04-29 13:22:50.717
+In procedura detaliiContCSV, 2019-04-29 13:22:50.717
+In procedura citesteSucursalaFis,2019-04-29 13:25:36.998
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:25:37.029
+In procedura citestePersoanaFis,2019-04-29 13:25:37.029
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:25:37.029
+In procedura citestePersoanaFis,2019-04-29 13:25:37.029
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:25:37.045
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:25:37.06
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura detaliiPersoanaCSV, 2019-04-29 13:25:37.06
+In procedura detaliiAngajatCSV, 2019-04-29 13:25:37.06
+In procedura detaliiPersoanaCSV, 2019-04-29 13:25:37.06
+In procedura detaliiClientCSV, 2019-04-29 13:25:37.06
+In procedura detaliiPersoanaCSV, 2019-04-29 13:25:37.06
+In procedura detaliiContCSV, 2019-04-29 13:25:37.06
+In procedura detaliiCardCSV, 2019-04-29 13:25:37.06
+In procedura citesteSucursalaFis,2019-04-29 13:27:07.001
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:27:07.032
+In procedura citestePersoanaFis,2019-04-29 13:27:07.032
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:27:07.048
+In procedura citestePersoanaFis,2019-04-29 13:27:07.048
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:27:07.048
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:27:07.063
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura detaliiPersoanaCSV, 2019-04-29 13:27:07.079
+In procedura detaliiAngajatCSV, 2019-04-29 13:27:07.079
+In procedura detaliiPersoanaCSV, 2019-04-29 13:27:07.079
+In procedura detaliiClientCSV, 2019-04-29 13:27:07.079
+In procedura detaliiPersoanaCSV, 2019-04-29 13:27:07.079
+In procedura detaliiContCSV, 2019-04-29 13:27:07.079
+In procedura detaliiCardCSV, 2019-04-29 13:27:07.079
+In procedura citesteSucursalaFis,2019-04-29 13:35:00.886
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:35:00.917
+In procedura citestePersoanaFis,2019-04-29 13:35:00.917
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:35:00.933
+In procedura citestePersoanaFis,2019-04-29 13:35:00.933
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:35:00.933
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:35:00.948
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura detaliiPersoanaCSV, 2019-04-29 13:35:00.948
+In procedura detaliiAngajatCSV, 2019-04-29 13:35:00.964
+In procedura detaliiPersoanaCSV, 2019-04-29 13:35:00.964
+In procedura detaliiClientCSV, 2019-04-29 13:35:00.964
+In procedura detaliiPersoanaCSV, 2019-04-29 13:35:00.964
+In procedura detaliiContCSV, 2019-04-29 13:35:00.964
+In procedura detaliiCardCSV, 2019-04-29 13:35:00.964
+In procedura citesteSucursalaFis,2019-04-29 13:40:59.042
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:40:59.089
+In procedura citestePersoanaFis,2019-04-29 13:40:59.089
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:40:59.089
+In procedura citestePersoanaFis,2019-04-29 13:40:59.089
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:40:59.105
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:40:59.12
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 13:40:59.12
+Id credit,2223
+In procedura detaliiPersoanaCSV, 2019-04-29 13:40:59.12
+In procedura detaliiAngajatCSV, 2019-04-29 13:40:59.12
+In procedura detaliiPersoanaCSV, 2019-04-29 13:40:59.12
+In procedura detaliiClientCSV, 2019-04-29 13:40:59.136
+In procedura detaliiPersoanaCSV, 2019-04-29 13:40:59.136
+In procedura detaliiContCSV, 2019-04-29 13:40:59.136
+In procedura detaliiCardCSV, 2019-04-29 13:40:59.136
+In procedura detaliiCreditCSV, 2019-04-29 13:40:59.136
+In procedura citesteSucursalaFis,2019-04-29 13:42:02.188
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:42:02.219
+In procedura citestePersoanaFis,2019-04-29 13:42:02.219
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:42:02.235
+In procedura citestePersoanaFis,2019-04-29 13:42:02.235
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:42:02.235
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:42:02.25
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 13:42:02.25
+Id credit,2223
+In procedura detaliiPersoanaCSV, 2019-04-29 13:42:02.25
+In procedura detaliiAngajatCSV, 2019-04-29 13:42:02.25
+In procedura detaliiPersoanaCSV, 2019-04-29 13:42:02.25
+In procedura detaliiClientCSV, 2019-04-29 13:42:02.25
+In procedura detaliiPersoanaCSV, 2019-04-29 13:42:02.25
+In procedura detaliiContCSV, 2019-04-29 13:42:02.25
+In procedura detaliiCardCSV, 2019-04-29 13:42:02.25
+In procedura detaliiCreditCSV, 2019-04-29 13:42:02.25
+In procedura citesteSucursalaFis,2019-04-29 13:44:42.208
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:44:42.239
+In procedura citestePersoanaFis,2019-04-29 13:44:42.239
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:44:42.254
+In procedura citestePersoanaFis,2019-04-29 13:44:42.254
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:44:42.254
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:44:42.27
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 13:44:42.286
+Id credit,2223
+Valuta,RON
+Suma imprumutata,500
+Dobanda,2.0
+Durata luni,24
+In procedura detaliiPersoanaCSV, 2019-04-29 13:44:42.286
+In procedura detaliiAngajatCSV, 2019-04-29 13:44:42.286
+In procedura detaliiPersoanaCSV, 2019-04-29 13:44:42.286
+In procedura detaliiClientCSV, 2019-04-29 13:44:42.286
+In procedura detaliiPersoanaCSV, 2019-04-29 13:44:42.286
+In procedura detaliiContCSV, 2019-04-29 13:44:42.286
+In procedura detaliiCardCSV, 2019-04-29 13:44:42.286
+In procedura detaliiCreditCSV, 2019-04-29 13:44:42.286
+In procedura citesteSucursalaFis,2019-04-29 13:45:41.375
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:45:41.407
+In procedura citestePersoanaFis,2019-04-29 13:45:41.407
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:45:41.407
+In procedura citestePersoanaFis,2019-04-29 13:45:41.422
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:45:41.422
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:45:41.444
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 13:45:41.444
+Id credit,2223
+Valuta,RON
+Suma imprumutata,500
+Dobanda,2.0
+Durata luni,24
+In procedura citesteRataFis,2019-04-29 13:45:41.444
+Id rata,2224
+Luna,4
+Suma,40
+Status,platita
+In procedura detaliiPersoanaCSV, 2019-04-29 13:45:41.444
+In procedura detaliiAngajatCSV, 2019-04-29 13:45:41.444
+In procedura detaliiPersoanaCSV, 2019-04-29 13:45:41.444
+In procedura detaliiClientCSV, 2019-04-29 13:45:41.444
+In procedura detaliiPersoanaCSV, 2019-04-29 13:45:41.444
+In procedura detaliiContCSV, 2019-04-29 13:45:41.444
+In procedura detaliiCardCSV, 2019-04-29 13:45:41.444
+In procedura detaliiCreditCSV, 2019-04-29 13:45:41.444
+In procedura detaliiRataCSV, 2019-04-29 13:45:41.444
+In procedura citesteSucursalaFis,2019-04-29 13:48:07.951
+Id sucursala,1
+Denumire,Unirii
+Locatie,Bucuresti
+In procedura citesteAngajatFis,2019-04-29 13:48:07.998
+In procedura citestePersoanaFis,2019-04-29 13:48:07.998
+CNP,111
+Nume,Mihai
+Prenume,Dana
+Adresa,Florilor
+CNP,11
+Functie,Casier
+In procedura citesteClientFis,2019-04-29 13:48:07.998
+In procedura citestePersoanaFis,2019-04-29 13:48:07.998
+CNP,222
+Nume,Pop
+Prenume,Ion
+Adresa,Pomilor
+In procedura citesteContFis,2019-04-29 13:48:08.014
+Iban,2221
+Valuta,RON
+Suma,1000.0
+In procedura citesteCardFis,2019-04-29 13:48:08.029
+Nr card,2222
+Status,activ
+Tip card,VISA
+Valabilitate Luna,5
+Valabilitate An,2020
+In procedura citesteCreditFis,2019-04-29 13:48:08.029
+Id credit,2223
+Valuta,RON
+Suma imprumutata,500
+Dobanda,2.0
+Durata luni,24
+In procedura citesteRataFis,2019-04-29 13:48:08.029
+Id rata,2224
+Luna,4
+Suma,40
+Status,platita
+In procedura detaliiPersoanaCSV, 2019-04-29 13:48:08.029
+In procedura detaliiAngajatCSV, 2019-04-29 13:48:08.029
+In procedura detaliiPersoanaCSV, 2019-04-29 13:48:08.029
+In procedura detaliiClientCSV, 2019-04-29 13:48:08.045
+In procedura detaliiPersoanaCSV, 2019-04-29 13:48:08.045
+In procedura detaliiContCSV, 2019-04-29 13:48:08.045
+In procedura detaliiCardCSV, 2019-04-29 13:48:08.045
+In procedura detaliiCreditCSV, 2019-04-29 13:48:08.045
+In procedura detaliiRataCSV, 2019-04-29 13:48:08.045
